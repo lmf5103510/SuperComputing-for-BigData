@@ -1,0 +1,10 @@
+<config>
+	<refPath>/data/spark/ref/ucsc.hg19.fasta</refPath>
+	<bwaPath>/data/spark/tools/bwa</bwaPath>
+	<numTasks>4</numTasks>
+	<numThreads>1</numThreads>
+	<intervalSecs>5</intervalSecs>
+	<streamDir>streamDir</streamDir>
+	<inputDir>/data/spark/fastq</inputDir>
+	<outputDir>samDir</outputDir>
+</config>

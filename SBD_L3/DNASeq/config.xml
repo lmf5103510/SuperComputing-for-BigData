@@ -1,0 +1,9 @@
+<configuration>
+	<refFolder>/data/spark/ref</refFolder>
+	<toolsFolder>/data/spark/tools</toolsFolder>
+	<tmpFolder>tmp</tmpFolder>
+	<inputFolder>samDir</inputFolder>
+	<outputFolder>output</outputFolder> 
+	<numInstances>8</numInstances>
+	<numThreads>1</numThreads>
+</configuration>
